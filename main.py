@@ -46,8 +46,8 @@ X  \...X     @#%,.@                      @#%,.@     X.../  X
                           @@@  @@@                  .
 
 
-                   Lê Quang Minh (ʚMunɞ)
-                  Nhấn Enter Để Tiếp Tục 
+                   Messy Shepherd  (@messyshep)
+                     press Enter to continue 
 """
 Anime.Fade(Center.Center(text), Colors.red_to_blue, Colorate.Vertical, enter=True)
 def banner():
@@ -61,9 +61,8 @@ d888888b d888888b db   dD d888888b  .d88b.  db   dD            db    db d888888b
    88      .88.   88 `88.    88    `8b  d8' 88 `88.             `8bd8'    .88.   88.     `8b d8'8b d8' 
    YP    Y888888P YP   YD    YP     `Y88P'  YP   YD               YP    Y888888P Y88888P  `8b8' `8d8'  
       
-                                Tool Buff View TikTok Version Python 2022
+                                Tool Buff View TikTok Version Python 2024
                          
-                                    Youtube: Lê Quangg Minhh Official
 
 
 """
